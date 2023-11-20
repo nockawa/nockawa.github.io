@@ -5,15 +5,13 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
-
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+<img src="/assets/LoicBaumannSmall.png" alt="drawing" style="width:200px;" align="left|top"/>
+Hi there, I am **{{ site.author.name }}** :wave:, I'm from Paris area, France
+<br>
+I develop, since early 90s, first assembly, then C++ and nowadays mostly .net.
+<br>
+<br>
+My area of interest are 3D programming, low-latency/highly-scalable/performant solutions and many other things.
 
 <div class="row">
 {% include about/timeline.html %}
