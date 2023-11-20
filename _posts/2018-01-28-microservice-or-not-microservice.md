@@ -5,7 +5,7 @@ author: 'Loïc Baumann'
 layout: post
 permalink: microservice-or-not-microservice/
 tags:
-    - Microservice
+    - Architecture
 ---
 
 It is always a good thing to benefit from the point of view of others, things are never either black or white and to find your way in this grey area that you’ll have to define is certainly not easy.  
