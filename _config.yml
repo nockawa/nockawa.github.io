@@ -1,7 +1,9 @@
 ### Site Settings ###
 title               : Nockawa's Blog
 description         : >-
-                      Programming and stuffs.
+                      Hello there, I'm Loïc Baumann<br/>
+                      Welcome to my site<br/>
+                      I talk about programming
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : nockawa/nockawa.github.io         # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -12,6 +14,7 @@ open_new_tab        : true                              # Opens external URLs in
 plugins:
   - jemoji
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 
